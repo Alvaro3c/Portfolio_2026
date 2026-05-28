@@ -61,7 +61,7 @@ export default function Curriculum() {
           {/* Experiencia */}
           <div className={styles.column}>
             <h3 className={styles.columnTitle}>
-              <span className={styles.icon}>💼</span> Experiencia
+              <span className={styles.icon}>💼</span> Experience
             </h3>
             <div className={styles.timeline}>
               {cvData.experience.map((item, i) => (
@@ -77,10 +77,9 @@ export default function Curriculum() {
             </div>
           </div>
 
-          {/* Educación */}
           <div className={styles.column}>
             <h3 className={styles.columnTitle}>
-              <span className={styles.icon}>🎓</span> Educación
+              <span className={styles.icon}>🎓</span> Education
             </h3>
             <div className={styles.timeline}>
               {cvData.education.map((item, i) => (
