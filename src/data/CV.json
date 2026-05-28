@@ -1,0 +1,74 @@
+{
+  "experience": [
+    {
+      "id": "trip2gether",
+      "role": "Full Stack Developer",
+      "company": "Trip2gether",
+      "period": "Dec 2022",
+      "bullets": [
+        "Data model analysis with **MySQL**",
+        "Frontend architecture with **HTML**, **CSS** and **Angular**",
+        "Route design and development with **NodeJS** and **ExpressJS**"
+      ]
+    },
+    {
+      "id": "mtp",
+      "role": "Backend Developer",
+      "company": "MTP",
+      "period": "Jun 2025 – Feb 2026",
+      "bullets": [
+        "Pipeline development for a PoC: implemented a **FastAPI** solution to integrate AI capabilities and manage segmented data flows",
+        "Technical documentation processing with AI: automated text analysis and classification using language models (**OpenAI**) and **embeddings** for efficient structuring",
+        "Model optimization: tuned **embeddings** and prompts to improve accuracy in extracting and subdividing relevant information",
+        "Codebase migration to **LangGraph**"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "the-bridge",
+      "degree": "Full Stack Web Developer Bootcamp",
+      "institution": "The Bridge",
+      "period": "Apr 2023 – Aug 2023 (500H)",
+      "bullets": [
+        "Built dynamic full-stack applications using **React**, **JavaScript** and **NodeJS**",
+        "Designed web interfaces with **SASS** for responsive, maintainable and scalable layouts",
+        "Collaborated on an interdisciplinary project with UX/UI, cybersecurity and data science students to deliver a fully integrated web application"
+      ]
+    },
+    {
+      "id": "deusto",
+      "degree": "Advanced Course in Python and SQL Programming",
+      "institution": "Deusto",
+      "period": "Nov 2023 – Sep 2024",
+      "bullets": [
+        "**Python** fundamentals including syntax and object-oriented programming",
+        "File handling and management using **Python**",
+        "**SQLite** for creating, managing and integrating databases with **Python**"
+      ]
+    },
+    {
+      "id": "ifp",
+      "degree": "Higher Degree in Web Application Development",
+      "institution": "IFP",
+      "period": "Feb 2024 – Feb 2026",
+      "bullets": [
+        "**Java** programming",
+        "Virtual machine development and management",
+        "Database design and implementation with **MySQL**"
+      ]
+    },
+    {
+      "id": "master-ia",
+      "degree": "Master's in Generative AI",
+      "institution": "Online",
+      "period": "Nov 2025 – May 2026",
+      "bullets": [
+        "Agent design and orchestration with **LangGraph** and **LangChain**",
+        "**Machine Learning**: fundamentals, model training and evaluation",
+        "**Embeddings** and semantic search with vector databases",
+        "**Transformer** architecture and large language models"
+      ]
+    }
+  ]
+}

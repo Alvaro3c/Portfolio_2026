@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1",
+    "title": "Concert Predictor",
+    "shortDescription": "Given an artist and a country, this app predicts when a concert will occour again",
+    "techStack": [
+      "Python",
+      "FastAPI",
+      "LightGBM",
+      "HuggingFace",
+      "React"
+    ],
+    "imageUrl": "https://res.cloudinary.com/ddfhehcb0/image/upload/f_auto,q_auto/Captura_de_pantalla_2026-05-28_124835_ss2vgh",
+    "liveUrl": "https://concert-predictor-client.vercel.app/",
+    "githubUrlClient": "https://github.com/Alvaro3c/concert_predictor_client",
+    "githubUrlServer": "https://github.com/Alvaro3c/concert_predictor_server"
+  },
+  {
+    "id": "2",
+    "title": "Neon Chat",
+    "shortDescription": "A chat app whith a neon based UI that resembles features from MSN Messenger",
+    "techStack": [
+      "Python",
+      "FastAPI",
+      "React",
+      "Firebase"
+    ],
+    "imageUrl": "https://res.cloudinary.com/ddfhehcb0/image/upload/f_auto,q_auto/Captura_de_pantalla_2026-05-28_125224_wlfyoi",
+    "liveUrl": "https://neon-chat-client.vercel.app/",
+    "githubUrlClient": "https://github.com/Alvaro3c/neon-chat-client",
+    "githubUrlServer": "https://github.com/Alvaro3c/neon-chat-server"
+  }
+]
