@@ -61,7 +61,7 @@
     {
       "id": "master-ia",
       "degree": "Master's in Generative AI",
-      "institution": "Online",
+      "institution": "The Bridge",
       "period": "Nov 2025 – May 2026",
       "bullets": [
         "Agent design and orchestration with **LangGraph** and **LangChain**",
